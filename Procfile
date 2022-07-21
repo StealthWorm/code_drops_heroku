@@ -1,2 +1,2 @@
-web: npm run start:prod
-web: node main.ts
+# web: npm run start:prod
+web: yarn start:prod
